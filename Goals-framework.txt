@@ -1,6 +1,8 @@
 rencana mempelajari framework
 
 mempelajari html
+  -membuat kolom
+  -membuat text
 belajar js
   -function
   -percabangan
