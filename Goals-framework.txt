@@ -3,11 +3,11 @@ rencana mempelajari framework
 mempelajari html
   -membuat kolom
   -membuat text
+  -membuat komentar
 belajar js
   -function
   -percabangan
   -perulangan
 belajar css
   -belajar basic
-  -mengubah struktur dasar
 belajar laravel
