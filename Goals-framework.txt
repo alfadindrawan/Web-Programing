@@ -1,0 +1,9 @@
+rencana mempelajari framework
+
+mempelajari html
+belajar js
+  -function
+  -percabangan
+  -perulangan
+belajar css
+belajar laravel
