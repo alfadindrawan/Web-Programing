@@ -8,4 +8,5 @@ belajar js
   -percabangan
   -perulangan
 belajar css
+  -belajar basic
 belajar laravel
