@@ -3,6 +3,7 @@ rencana mempelajari framework
 mempelajari html
   -membuat kolom
   -membuat text
+  -membuat komentar
 belajar js
   -function
   -percabangan
